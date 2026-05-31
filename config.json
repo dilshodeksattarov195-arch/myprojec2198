@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcetch",
+        "uuid": 11176830,
+        "checksum": "jgw0ax"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
